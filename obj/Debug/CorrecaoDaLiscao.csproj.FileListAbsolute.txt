@@ -1,0 +1,7 @@
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\bin\Debug\CorrecaoDaLiscao.exe.config
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\bin\Debug\CorrecaoDaLiscao.exe
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\bin\Debug\CorrecaoDaLiscao.pdb
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\obj\Debug\CorrecaoDaLiscao.csproj.AssemblyReference.cache
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\obj\Debug\CorrecaoDaLiscao.csproj.CoreCompileInputs.cache
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\obj\Debug\CorrecaoDaLiscao.exe
+C:\Users\luis.fpcunha\source\repos\CorrecaoDaLiscao\CorrecaoDaLiscao\obj\Debug\CorrecaoDaLiscao.pdb
